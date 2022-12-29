@@ -1,6 +1,6 @@
 ## Hey there, I'm Nautash 👋
 
-<!-- <img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20.png"/> -->
+<p align="center"><img src="https://github.com/n4u77i/n4u77i/blob/master/167232036492.png"></p>
 <!--  <hr></hr> -->
 
 <p align="center">
